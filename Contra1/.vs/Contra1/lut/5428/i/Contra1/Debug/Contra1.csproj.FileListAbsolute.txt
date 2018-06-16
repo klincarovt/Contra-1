@@ -1,0 +1,12 @@
+C:\Users\Majestic\source\repos\Contra1\.vs\Contra1\lut\0\b\Contra1.exe.config
+C:\Users\Majestic\source\repos\Contra1\.vs\Contra1\lut\0\b\Contra1.exe
+C:\Users\Majestic\source\repos\Contra1\.vs\Contra1\lut\0\i\Contra1\Debug\Contra1.Form1.resources
+C:\Users\Majestic\source\repos\Contra1\.vs\Contra1\lut\0\i\Contra1\Debug\Contra1.Form2.resources
+C:\Users\Majestic\source\repos\Contra1\.vs\Contra1\lut\0\i\Contra1\Debug\Contra1.Form3.resources
+C:\Users\Majestic\source\repos\Contra1\.vs\Contra1\lut\0\i\Contra1\Debug\Contra1.Form4.resources
+C:\Users\Majestic\source\repos\Contra1\.vs\Contra1\lut\0\i\Contra1\Debug\Contra1.Properties.Resources.resources
+C:\Users\Majestic\source\repos\Contra1\.vs\Contra1\lut\0\i\Contra1\Debug\Contra1.csproj.GenerateResource.cache
+C:\Users\Majestic\source\repos\Contra1\.vs\Contra1\lut\0\i\Contra1\Debug\Contra1.csproj.CoreCompileInputs.cache
+C:\Users\Majestic\source\repos\Contra1\.vs\Contra1\lut\0\i\Contra1\Debug\Contra1.csproj.CopyComplete
+C:\Users\Majestic\source\repos\Contra1\.vs\Contra1\lut\0\i\Contra1\Debug\Contra1.exe
+C:\Users\Majestic\source\repos\Contra1\.vs\Contra1\lut\0\i\Contra1\Debug\Contra1.csprojAssemblyReference.cache

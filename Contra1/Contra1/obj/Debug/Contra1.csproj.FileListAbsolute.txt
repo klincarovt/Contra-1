@@ -1,0 +1,13 @@
+C:\Users\Majestic\source\repos\Contra1\Contra1\bin\Debug\Contra1.exe.config
+C:\Users\Majestic\source\repos\Contra1\Contra1\bin\Debug\Contra1.exe
+C:\Users\Majestic\source\repos\Contra1\Contra1\bin\Debug\Contra1.pdb
+C:\Users\Majestic\source\repos\Contra1\Contra1\obj\Debug\Contra1.csprojAssemblyReference.cache
+C:\Users\Majestic\source\repos\Contra1\Contra1\obj\Debug\Contra1.Form1.resources
+C:\Users\Majestic\source\repos\Contra1\Contra1\obj\Debug\Contra1.Properties.Resources.resources
+C:\Users\Majestic\source\repos\Contra1\Contra1\obj\Debug\Contra1.csproj.GenerateResource.cache
+C:\Users\Majestic\source\repos\Contra1\Contra1\obj\Debug\Contra1.csproj.CoreCompileInputs.cache
+C:\Users\Majestic\source\repos\Contra1\Contra1\obj\Debug\Contra1.exe
+C:\Users\Majestic\source\repos\Contra1\Contra1\obj\Debug\Contra1.pdb
+C:\Users\Majestic\source\repos\Contra1\Contra1\obj\Debug\Contra1.Form2.resources
+C:\Users\Majestic\source\repos\Contra1\Contra1\obj\Debug\Contra1.Form3.resources
+C:\Users\Majestic\source\repos\Contra1\Contra1\obj\Debug\Contra1.Form4.resources
