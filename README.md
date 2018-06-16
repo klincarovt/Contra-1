@@ -13,6 +13,7 @@
 
 
 ![alt text](https://github.com/klincarovt/Contra-1/tree/master/Contra1/Pictures/play.png)
+<img src="https://github.com/klincarovt/Contra-1/tree/master/Contra1/Pictures/play.png">
 
 
 Потоа доаѓа втората форма каде што играчот е информиран за контролите на оваа игра.
