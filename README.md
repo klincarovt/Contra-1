@@ -10,9 +10,5 @@
 Првата форма се состои од логото на играта како и избор или копче за започнување на играта
 
 
-![alt text](https://ibb.co/f1WAhy)
+![alt text](https://github.com/klincarovt/Contra-1/tree/master/Contra1/Pictures/play.png)
 
-https://ibb.co/f1WAhy
-https://ibb.co/cshGNy
-https://ibb.co/ncMAhy
-https://ibb.co/ghiCvJ
