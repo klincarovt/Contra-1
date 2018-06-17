@@ -17,13 +17,15 @@ https://www.youtube.com/watch?v=F6iXwz4XGNQ&t=958s
 Првата форма се состои од логото на играта како и избор или копче за започнување на играта
 
 
-![alt text](https://github.com/klincarovt/Contra-1/tree/master/Contra1/Pictures/play.png)
+![alt text](https://github.com/klincarovt/Contra-1/blob/master/Contra1/Pictures/play.png)
 
 
 
 Потоа доаѓа втората форма каде што играчот е информиран за контролите на оваа игра.
 
-![alt text](https://github.com/klincarovt/Contra-1/blob/master/Contra1/Pictures/gameplay%202.png)
+
+![alt text](https://github.com/klincarovt/Contra-1/blob/master/Contra1/Pictures/controls.png)
+
 
 
 На третата форма играчот веќе почнува со игра.
@@ -33,15 +35,14 @@ https://www.youtube.com/watch?v=F6iXwz4XGNQ&t=958s
 Играта заврува кога играчот ке биде убиен.
 
 
-![alt text](https://github.com/klincarovt/Contra-1/tree/master/Contra1/Pictures/gameplay.png)
+![alt text](https://github.com/klincarovt/Contra-1/blob/master/Contra1/Pictures/gameplay.png)
 
-
-![alt text]https://github.com/klincarovt/Contra-1/tree/master/Contra1/Pictures/gameplay+2.png)
+![alt text](https://github.com/klincarovt/Contra-1/blob/master/Contra1/Pictures/gameplay%202.png)
 
 
 Потоа доаѓа четвртата форма каде играчот ги има освоените поени и покрај тоа има опција за повторно да игра одностно го враќа кон форма 3.
 
-![alt text](https://github.com/klincarovt/Contra-1/tree/master/Contra1/Pictures/over.png)
+![alt text](https://github.com/klincarovt/Contra-1/blob/master/Contra1/Pictures/over.png)
 
 
 Во играта се користат стелките лево и десно за движење и стреката нагоре за погледнување на играчот нагоре односно негово свртување кон непријателите. Играчот има опција да скока со копчето space, со скокање може да се качи на еден од двата блока или ѕидови. Ѕидовите содржат код за колизија како на пример играчот може да се качи на нив да се заштити од непријателите и во исто време тој неможи да пука преку ѕидот. За пукање играчот мора да го претисне копчето Z или З со претискање на копчето играчот се свртува нагоре и пука 3 проектили. Проектилите се движат така што еден оди во средината а другите два е одалечуваат кон лево и десно. Непријатели на играчот се 3 хеликоптери кој се појавуваат на одредено време. Овие хеликоптери си имаат своја траекторија за движење по изминатиот пат тие се ресетираат на првобитната позиција и повторно се движат по истата траекторија. 
