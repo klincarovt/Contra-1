@@ -59,7 +59,18 @@
 За појавувањето на хеликоптерите искористивме тајмер. Овој тајмер исто така служи за напаѓање на хеликоптерите, по одредено време секој од трите хеликоптери напаѓаат во различно време секој хеликоптер пука по 2 проектили. Овие проектили при контакт со блоковите исчезнуваат каде што играчот може да се заштити , но при контакт со играчот проектилите го убиваат играчот и завршува играта.
 
 
-```private void EnemyTimer_Tick(object sender, EventArgs e)
+```
+private void ResetPicture(PictureBox pb)
+        {
+            if (pb.Left >= screen.Width - pb.Width)
+            {
+                pb.Left = 1;
+
+
+            }
+        }
+
+private void EnemyTimer_Tick(object sender, EventArgs e)
         {
             if (Enemy1.Visible)
             {
@@ -122,8 +133,8 @@
 
         int timer;
 
-        private void EnemyShoot_Tick(object sender, EventArgs e)
-        {
+private void EnemyShoot_Tick(object sender, EventArgs e)
+{
 
 
 
@@ -145,5 +156,6 @@
                 }
                 timer = 1;
             }
-
-        }```
+}
+       
+       ```
