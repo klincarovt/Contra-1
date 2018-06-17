@@ -23,7 +23,7 @@ https://www.youtube.com/watch?v=F6iXwz4XGNQ&t=958s
 
 Потоа доаѓа втората форма каде што играчот е информиран за контролите на оваа игра.
 
-![alt text](https://github.com/klincarovt/Contra-1/tree/master/Contra1/Pictures/controls.png)
+![alt text](https://github.com/klincarovt/Contra-1/blob/master/Contra1/Pictures/gameplay%202.png)
 
 
 На третата форма играчот веќе почнува со игра.
