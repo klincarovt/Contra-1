@@ -36,7 +36,8 @@ https://www.youtube.com/watch?v=F6iXwz4XGNQ&t=958s
 ![alt text](https://github.com/klincarovt/Contra-1/tree/master/Contra1/Pictures/gameplay.png)
 
 
-![alt text](https://github.com/klincarovt/Contra-1/tree/master/Contra1/Pictures/gameplay 2.png)
+![alt text](https://github.com/klincarovt/Contra-1/Contra1/Pictures/gameplay_2.png)
+Contra-1/Contra1/Pictures/gameplay_2.png
 
 Потоа доаѓа четвртата форма каде играчот ги има освоените поени и покрај тоа има опција за повторно да игра одностно го враќа кон форма 3.
 
